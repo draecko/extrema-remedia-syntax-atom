@@ -1,14 +1,16 @@
 {
-  "name": "an-old-hope-syntax",
+  "name": "extrema-remedia-syntax",
   "theme": "syntax",
-  "version": "1.0.4",
-  "description": "Atom theme inspired by a galaxy far far away...",
+  "version": "0.0.0",
+  "description": "Atom theme inspired by the Strategic Homeland Division.",
   "keywords": [
     "syntax",
     "theme",
-    "star wars"
+    "shd",
+    "the division",
+    "tom clancy"
   ],
-  "repository": "https://github.com/jesseleite/an-old-hope-syntax-atom",
+  "repository": "https://github.com/draecko/extrema-remedia-syntax-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13 <2.0.0"
