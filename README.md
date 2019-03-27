@@ -1,10 +1,9 @@
 # Extrema Remedia
 
-Atom theme inspired by [a galaxy far far away...](https://raw.githubusercontent.com/JesseLeite/an-old-hope-syntax-atom/master/a-new-hope.jpg)
+Atom theme inspired by the Strategic Homeland Division.
 
-![palette](https://raw.githubusercontent.com/JesseLeite/an-old-hope-syntax-atom/master/palette.jpg)
 
-By [Jesse Leite](https://twitter.com/jesseleite85)
+By Joeri Stikvoort
 
 ## UI Integration
 
@@ -15,5 +14,3 @@ document.body.classList.add('an-old-hope-modify-ui')
 ```
 
 ## Screenshot
-
-![screenshot](https://raw.githubusercontent.com/JesseLeite/an-old-hope-syntax-atom/master/screenshot.png)
